@@ -1,0 +1,2 @@
+# two_factor_anova_cultural_alignment_-13.02.2022-
+Base de datos lista para realizar ANOVA de dos factores (muestra x condición) con los puntajes cruzados de las muestras (crossed-sample). Es decir, aqui encontramos los puntajes con la aplicación de los diccionarios cruzados de la muestras (puntuaciones de los diccionarios World Sample World Condition a ambas condiciones de la muestra británica; y los diccionarios de la British condition de la muestra Británica a ambas condiciones de las muestras internacionales). 
